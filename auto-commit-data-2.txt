@@ -1,8 +1,8 @@
 # Prim-s-Algorithm
 
-Last updated: 2025-06-01T11:49:39.686Z
+Last updated: 2025-06-01T11:49:47.659Z
 
-Random seed: 0.8495451140051438
+Random seed: 0.44982720421481903
 
 ## Status
 
